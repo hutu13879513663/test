@@ -1,3 +1,3 @@
 <?php
-print go;
+print go1;
 ?>
